@@ -6,6 +6,15 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
+  - luci-app-ddns
+  - luci-app-ssr-plus
+  - luci-app-unblockmusic
+  - luci-app-vlmcsd
+  - luci-app-adguardhome
+  - luci-app-aliyundrive-webdav
+  - luci-app-clash
+  - luci-app-docker
+  - luci-app-transmission
 
 
 
